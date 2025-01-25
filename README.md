@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# Skill Oracle 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: crackers
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Afreen Aslam- ICCS College of Engineering and management
+- Member 2: Anjana M H - ICCS College of Engineering and management
+- Member 3: Rose saniya P X - ICCS College of Engineering and management
 
 ### Hosted Project Link
 [mention your project hosted project link here]
