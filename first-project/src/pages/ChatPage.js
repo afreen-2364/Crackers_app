@@ -1,10 +1,11 @@
 import React from "react";
+import Chat from "./ChatComponent"; // Adjust path as per your project structure
 
 function ChatPage() {
   return (
     <div>
-      <h2>Chat with a User</h2>
-      <p>Chat functionality coming soon...</p>
+      <h1>Chat Page</h1>
+      <Chat />
     </div>
   );
 }

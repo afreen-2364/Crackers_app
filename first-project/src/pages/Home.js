@@ -1,23 +1,13 @@
-import React, { useState } from "react";
+import React from "react";
+import SearchBar from "./SearchBar"; // Adjust path as per your project structure
 
-function SearchBar({ onSearch }) {
-  const [query, setQuery] = useState("");
-
-  const handleInputChange = (e) => {
-    setQuery(e.target.value);
-    onSearch(e.target.value); // Trigger the search handler passed as a prop
-  };
-
+function Home() {
   return (
     <div>
-      <input
-        type="text"
-        placeholder="Search for skills..."
-        value={query}
-        onChange={handleInputChange}
-      />
+      <h1>Home Page</h1>
+      <SearchBar />
     </div>
   );
 }
 
-export default SearchBar;
+export default Home;
