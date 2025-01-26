@@ -11,16 +11,16 @@
 - Member 3: Rose saniya P X - ICCS College of Engineering and management
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://crackers-app.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+the project decribes that to enchance the skill in an exchange of free or for paid.it helps to connect people enchance skill for free of cost,get the mentorship with most comfortable match.and can learn any skills.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+the problem is the lack of skill,it is a skill swaping app to swap the skill in terms of an exchange policy or if a person doesnot get skill in return they can have a paid tutorship.they can set a time period of 7,14 or any days to mentor each other.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+we have a created an app using react app ,in that we can connect people chat each other to make the match comfortable,the people cann add their skill so that they can get to you
 
 ## Technical Details
 ### Technologies/Components Used
@@ -84,7 +84,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
 *Explain what the video demonstrates*
 
 # Additional Demos
